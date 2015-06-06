@@ -1,4 +1,5 @@
 
-# Blog
+# My Personal Blog
 
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+Here is the source code of my personal blog using Wintersmith.
+
