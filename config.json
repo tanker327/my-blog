@@ -1,9 +1,9 @@
 {
   "locals": {
     "url": "http://localhost:8080",
-    "name": "The Wintersmith's blog",
+    "name": "Eric Wu",
     "owner": "Someone",
-    "description": "Ramblings of an immor(t)al demigod"
+    "description": "Hi, This is Eric's blog."
   },
   "plugins": [
     "./plugins/paginator.coffee"
